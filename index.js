@@ -1,3 +1,3 @@
 exports.greeting = function(){
-	console.log('Hello earthling!');
+	console.log('Hello world!');
 };
